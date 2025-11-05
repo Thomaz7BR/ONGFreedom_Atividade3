@@ -24,3 +24,5 @@ As informações preenchidas nos formulários são salvas localmente no navegado
 
 #  Menu Interativo (Hambúrguer Menu)
 O menu se adapta para dispositivos móveis, sendo aberto e fechado por meio de evento JavaScript.
+
+git clone https://github.com/Thomaz7BR/ONGFreedom_Atividade3.git
